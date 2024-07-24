@@ -1,0 +1,374 @@
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 593447952.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@235f4c10]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 290096578.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@114a85c2]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 101(Integer)
+<==      Total: 3
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 593447952.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@235f4c10]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 101(Integer)
+<==      Total: 3
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 67671827.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4089713]
+==>  Preparing: update students set sname=?,ssex=?,sclass=? WHERE sno=?
+==> Parameters: aa(String), 男(String), 计算机(String), 105(Integer)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4089713]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Created connection 1379148981.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@523424b5]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 970781872.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@39dcf4b0]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 480184864.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1c9f0a20]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: a(String), a(String)
+<==      Total: 0
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: a(String), a(String)
+<==      Total: 0
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1274247563.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4bf3798b]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: admin1(String), password123(String)
+<==      Total: 1
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: admin1(String), password123(String)
+<==      Total: 1
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 428996455.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1991f767]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+PooledDataSource forcefully closed/removed all connections.
+Created connection 830863979.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3185fa6b]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 101(Integer)
+<==      Total: 3
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 179808568.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@ab7a938]
+==>  Preparing: update students set sname=?,ssex=?,sclass=? WHERE sno=?
+==> Parameters: aaa(String), 女(String), 计算机(String), 105(Integer)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@ab7a938]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 246826139.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@eb6449b]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: admin1(String), password123(String)
+<==      Total: 1
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 428996455.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1991f767]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 5
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1832283291.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6d366c9b]
+==>  Preparing: insert into students values (?,?,?,?)
+==> Parameters: 109(Integer), jaj(String), 男(String), 计算机(String)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6d366c9b]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1068445309.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3faf2e7d]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 6
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2083854344.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7c351808]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 101(Integer)
+<==      Total: 3
+Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2123533871.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7e928e2f]
+==>  Preparing: select * from admin where username=? and password=?
+==> Parameters: admin1(String), password123(String)
+<==      Total: 1
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 428996455.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@1991f767]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 6
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+PooledDataSource forcefully closed/removed all connections.
+Created connection 1832283291.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6d366c9b]
+==>  Preparing: insert into students values (?,?,?,?)
+==> Parameters: 110(Integer), limi(String), 男(String), 计算机(String)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@6d366c9b]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1068445309.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3faf2e7d]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 7
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 708443754.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2a39fe6a]
+==>  Preparing: delete from students where sno=?;
+==> Parameters: 109(Integer)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@2a39fe6a]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1496220730.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@592e843a]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 6
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1276544608.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@4c168660]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 110(Integer)
+<==      Total: 1
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1556162268.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5cc126dc]
+==>  Preparing: select * from students where sno=?
+==> Parameters: 110(Integer)
+<==      Total: 1
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 2144644334.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7fd4acee]
+==>  Preparing: update students set sname=?,ssex=?,sclass=? WHERE sno=?
+==> Parameters: aas(String), 女(String), 计算机(String), 110(Integer)
+<==    Updates: 1
+Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7fd4acee]
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+PooledDataSource forcefully closed/removed all connections.
+Opening JDBC Connection
+Created connection 1992801971.
+Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@76c7beb3]
+==>  Preparing: select * from students
+==> Parameters: 
+<==      Total: 6

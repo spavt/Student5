@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC
+        "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="EmpMapper">
+    <select id="findAll" resultType="Model.Student">
+        select * from students
+    </select>
+    <select id="findById" resultType="Model.Student">
+        select * from students where sno=#{sno}
+    </select>
+
+    <update id="updatedata">
+        update students set sname=#{sname},ssex=#{ssex},sclass=#{sclass} WHERE sno=#{sno}
+    </update>
+
+
+    <update id="insertdata">
+    insert into students values (#{sno},#{sname},#{ssex},#{sclass})
+    </update>
+
+    <update id="deletedata">
+        delete from students where sno=#{sno};
+    </update>
+    <select id="findAdmin" resultType="Model.Admin">
+        select * from admin where username=#{username} and password=#{password}
+    </select>
+
+</mapper>
